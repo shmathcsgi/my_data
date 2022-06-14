@@ -1,0 +1,138 @@
+id,buName,industryCode
+1,Maritime,"FL1_Cable layer"
+2,Maritime,FL1_Cruise
+3,Maritime,FL1_Dredger
+4,Maritime,FL1_Fishing
+5,Maritime,FL1_Leisure
+6,Maritime,FL1_Merchant
+7,Maritime,"FL1_Offshore Supply Vessels"
+8,Maritime,"FL1_Passenger or Ferry"
+9,Maritime,FL1_Super-Yachting
+10,Maritime,FL1_Tug
+11,Maritime,FL1_Other
+12,Maritime,"FLET_Cable layer"
+13,Maritime,FLET_Cruise
+14,Maritime,FLET_Dredger
+15,Maritime,FLET_Fishing
+16,Maritime,FLET_Leisure
+17,Maritime,FLET_Merchant
+18,Maritime,"FLET_Offshore Supply Vessels"
+19,Maritime,"FLET_Passenger or Ferry"
+20,Maritime,FLET_Super-Yachting
+21,Maritime,FLET_Tug
+22,Maritime,FLET_Other
+23,"Enterprise SD - AgriTech",BGAN_Agriculture
+24,"Enterprise SD - FinTech",BGAN_Banking
+25,"Enterprise SD - FinTech",BGAN_Insurance
+26,"Enterprise SD - Integrated Transport","BGAN_Transportation and Logistics"
+27,"Enterprise SD - Media",BGAN_Media
+28,"Enterprise SD - Mining / Construction",BGAN_Construction
+29,"Enterprise SD - Mining / Construction",BGAN_Mining
+30,"Enterprise SD - NGO",BGAN_Education
+31,"Enterprise SD - NGO",BGAN_Healthcare
+32,"Enterprise SD - NGO","BGAN_Aid and NGOs"
+33,"Enterprise SD - Other business",BGAN_Other
+34,"Enterprise SD - Other business","BGAN_Retail and Wholesale Trade"
+35,"Enterprise SD - Other business","BGAN_Travel and Tourism"
+36,"Enterprise SD - Resources","BGAN_Environmental Monitoring"
+37,"Enterprise SD - Resources",BGAN_Manufacturing
+38,"Enterprise SD - Resources","BGAN_Oil and Gas"
+39,"Enterprise SD - Resources",BGAN_Utilities
+40,"Enterprise SD - AgriTech",BM2M_Agriculture
+41,"Enterprise SD - FinTech",BM2M_Banking
+42,"Enterprise SD - FinTech",BM2M_Insurance
+43,"Enterprise SD - Integrated Transport","BM2M_Transportation and Logistics"
+44,"Enterprise SD - Media",BM2M_Media
+45,"Enterprise SD - Mining / Construction",BM2M_Construction
+46,"Enterprise SD - Mining / Construction",BM2M_Mining
+47,"Enterprise SD - NGO",BM2M_Education
+48,"Enterprise SD - NGO",BM2M_Healthcare
+49,"Enterprise SD - NGO","BM2M_Aid and NGOs"
+50,"Enterprise SD - Other business",BM2M_Other
+51,"Enterprise SD - Other business","BM2M_Retail and Wholesale Trade"
+52,"Enterprise SD - Other business","BM2M_Travel and Tourism"
+53,"Enterprise SD - Resources","BM2M_Environmental Monitoring"
+54,"Enterprise SD - Resources",BM2M_Manufacturing
+55,"Enterprise SD - Resources","BM2M_Oil and Gas"
+56,"Enterprise SD - Resources",BM2M_Utilities
+57,"Enterprise SD - AgriTech",IHUB_Agriculture
+58,"Enterprise SD - FinTech",IHUB_Banking
+59,"Enterprise SD - FinTech",IHUB_Insurance
+60,"Enterprise SD - Integrated Transport","IHUB_Transportation and Logistics"
+61,"Enterprise SD - Media",IHUB_Media
+62,"Enterprise SD - Mining / Construction",IHUB_Construction
+63,"Enterprise SD - Mining / Construction",IHUB_Mining
+64,"Enterprise SD - NGO",IHUB_Education
+65,"Enterprise SD - NGO",IHUB_Healthcare
+66,"Enterprise SD - NGO","IHUB_Aid and NGOs"
+67,"Enterprise SD - Other business",IHUB_Other
+68,"Enterprise SD - Other business","IHUB_Retail and Wholesale Trade"
+69,"Enterprise SD - Other business","IHUB_Travel and Tourism"
+70,"Enterprise SD - Resources","IHUB_Environmental Monitoring"
+71,"Enterprise SD - Resources",IHUB_Manufacturing
+72,"Enterprise SD - Resources","IHUB_Oil and Gas"
+73,"Enterprise SD - Resources",IHUB_Utilities
+74,Aviation,"SWFT_Air Transport"
+75,Aviation,"SWFT_Business Aviation"
+76,Aviation,"SWFT_General Aviation"
+77,Aviation,SWFT_Helicopters
+78,Aviation,"SWFT_Limited Ground Test"
+79,Aviation,SWFT_Other
+80,"Global/US Govt.","SWFT_Civil Government"
+81,"Global/US Govt.","SWFT_Local Government"
+82,"Global/US Govt.","SWFT_National Government"
+83,"Global/US Govt.","SWFT_Government Health or Education"
+84,"Global/US Govt.","SWFT_Military Government"
+85,"Global/US Govt.","FL1_Civil Government"
+86,"Global/US Govt.","FL1_Local Government"
+87,"Global/US Govt.","FL1_National Government"
+88,"Global/US Govt.","FL1_Government Health or Education"
+89,"Global/US Govt.","FL1_Military Government"
+90,"Global/US Govt.","FLET_Civil Government"
+91,"Global/US Govt.","FLET_Local Government"
+92,"Global/US Govt.","FLET_National Government"
+93,"Global/US Govt.","FLET_Government Health or Education"
+94,"Global/US Govt.","FLET_Military Government"
+95,"Global/US Govt.","BGAN_Civil Government"
+96,"Global/US Govt.","BGAN_Local Government"
+97,"Global/US Govt.","BGAN_National Government"
+98,"Global/US Govt.","BGAN_Government Health or Education"
+99,"Global/US Govt.","BGAN_Military Government"
+100,"Global/US Govt.","BM2M_Civil Government"
+101,"Global/US Govt.","BM2M_Local Government"
+102,"Global/US Govt.","BM2M_National Government"
+103,"Global/US Govt.","BM2M_Government Health or Education"
+104,"Global/US Govt.","BM2M_Military Government"
+105,"Global/US Govt.","IHUB_Civil Government"
+106,"Global/US Govt.","IHUB_Local Government"
+107,"Global/US Govt.","IHUB_National Government"
+108,"Global/US Govt.","IHUB_Government Health or Education"
+109,"Global/US Govt.","IHUB_Military Government"
+110,"Global/US Govt.","GSPS_Civil Government"
+111,"Global/US Govt.","GSPS_Local Government"
+112,"Global/US Govt.","GSPS_National Government"
+113,"Global/US Govt.","GSPS_Government Health or Education"
+114,"Global/US Govt.","GSPS_Military Government"
+115,"Enterprise SD - AgriTech",GSPS_Agriculture
+116,"Enterprise SD - FinTech",GSPS_Banking
+117,"Enterprise SD - FinTech",GSPS_Insurance
+118,"Enterprise SD - Integrated Transport","GSPS_Transportation and Logistics"
+119,"Enterprise SD - Media",GSPS_Media
+120,"Enterprise SD - Mining / Construction",GSPS_Construction
+121,"Enterprise SD - Mining / Construction",GSPS_Mining
+122,"Enterprise SD - NGO",GSPS_Education
+123,"Enterprise SD - NGO",GSPS_Healthcare
+124,"Enterprise SD - NGO","GSPS_Aid and NGOs"
+125,"Enterprise SD - Other business",GSPS_Other
+126,"Enterprise SD - Other business","GSPS_Retail and Wholesale Trade"
+127,"Enterprise SD - Other business","GSPS_Travel and Tourism"
+128,"Enterprise SD - Resources","GSPS_Environmental Monitoring"
+129,"Enterprise SD - Resources",GSPS_Manufacturing
+130,"Enterprise SD - Resources","GSPS_Oil and Gas"
+131,"Enterprise SD - Resources",GSPS_Utilities
+132,Aviation,"UAVC_Air Transport"
+133,Aviation,"UAVC_Business Aviation"
+134,Aviation,"UAVC_General Aviation"
+135,Aviation,UAVC_Helicopters
+136,Aviation,"UAVC_Limited Ground Test"
+137,Aviation,UAVC_Other
